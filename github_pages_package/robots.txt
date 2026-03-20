@@ -1,0 +1,4 @@
+# robots.txt for moveLte:Andes
+User-agent: *
+Allow: /
+Sitemap: https://movelte.aurumraices.com/sitemap.xml
